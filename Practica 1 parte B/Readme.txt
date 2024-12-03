@@ -6,6 +6,6 @@ En el punto 2 se realizó lo mismo pero para muchas mas frecuencias, se midió l
 https://docs.google.com/spreadsheets/d/1EOraUY3OOqqy_AgoR2SbZKBLuZW5HyU1Lqo4jl8ftaw/edit?usp=sharing
 Se realizó una grafica y se observó que a medida que la frecuencia aumentaba, el cable atenuaba más la señal.
 
-Cabe aclarar que el análisis mas profundo de esta practica se encuentra en el Moodle.
+Cabe aclarar que el análisis mas profundo de esta practica se encuentra en el Moodle y que las evidencias completas para todos los casos, se encuentran en cada carpeta de este directorio..
 
 https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%201%20parte%20B/P1/p11B.jpg?raw=true
