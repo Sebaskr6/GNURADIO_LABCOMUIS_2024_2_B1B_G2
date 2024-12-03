@@ -13,6 +13,7 @@ https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%
 https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20parte%20A/P4/cuadradosinfiltro.png?raw=true
 
 En el punto 5 se analizó una señal de audio .wav, se le aplicó ruido y se filtró, se llegó a una conclusión.
+https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20parte%20A/P5/despecha%20filtrada.png?raw=true
 
 Cabe aclarar que todas las evidencias de medida y de análisis están en sus respectivas carpetas, y que el análisis mas profundo de la practica se encuentra en el Moodle.
 
