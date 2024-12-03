@@ -6,6 +6,7 @@ En el punto 2 se simuló una señal seno con ruido.
 https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20parte%20A/P2/imagen.png?raw=true
 
 En el punto 3 se ajustó la frecuencia del filtro para filtrar la señal ruidosa.
+https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20parte%20A/P3/imagen.png?raw=true
 
 En el punto 4 se realizó lo mismo pero con una señal cuadrada.
 https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20parte%20A/P4/Squarefiltrada.png?raw=true   
