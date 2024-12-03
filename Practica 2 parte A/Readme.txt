@@ -3,6 +3,7 @@ Practica 2A: En esta practica se debía analizar distintas señales generadas po
 En el punto 1 se debía realizar el montaje solicitado por la practica.
 
 En el punto 2 se simuló una señal seno con ruido.
+https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20parte%20A/P2/imagen.png?raw=true
 
 En el punto 3 se ajustó la frecuencia del filtro para filtrar la señal ruidosa.
 
