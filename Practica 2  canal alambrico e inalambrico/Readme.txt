@@ -7,6 +7,7 @@ https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%
 https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20%20canal%20alambrico%20e%20inalambrico/Punto%202/IMG-20240924-WA0064.jpg?raw=true
 
 En el punto 3 se analizó una señal generada por el profesor de manera inalámbrica, para ello se utilizó una antena receptora de la señal y se analizó en el espectrómetro.
+https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%202%20%20canal%20alambrico%20e%20inalambrico/Punto%203/IMG-20240924-WA0073.jpg?raw=true
 
 Cabe aclarar que todas las evidencias de medida y de análisis están en sus respectivas carpetas, y que el análisis mas profundo de la practica se encuentra en el Moodle.
 
