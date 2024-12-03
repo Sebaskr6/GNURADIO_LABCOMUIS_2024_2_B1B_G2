@@ -6,4 +6,4 @@ En el punto 2 se debía analizar 3 casos de modulación para distintos índices 
 Una evidencia de esta medida es la siguiente:
 https://github.com/Sebaskr6/GNURADIO_LABCOMUIS_2024_2_B1B_G2/blob/main/Practica%203%20modulaciones%20lineales/Punto%202/caso=1%20Ac.jpg?raw=true
 
-Cabe aclarar que el análisis más profundo de esta practica se encuentra en el Moodle.
+Cabe aclarar que el análisis más profundo de esta practica se encuentra en el Moodle y que las evidencias completas para todos los casos, se encuentran en cada carpeta de este directorio.
